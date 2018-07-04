@@ -1,11 +1,11 @@
 # Bank_of_Tz
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|d](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 Bank_of_Tz is a web scrapper which scapes data from bot.go.tz the data its scapes includes
 
-  - Treasury Bill Prices from previous Actions (available in JSON)
-  - Treasury Bond Prices from previous Actions
+  - Treasury Bill Prices from previous Auctions (available in JSON)
+  - Treasury Bond Prices from previous Auctions
   - Currency Rates 
  
 ### Installation
