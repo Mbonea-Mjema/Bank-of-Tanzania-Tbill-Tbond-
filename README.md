@@ -1,5 +1,5 @@
 # Bank_of_Tz
-[!][alt text](https://www.bot.go.tz/images/BOTgoldLogo10.jpg)
+![Logo](https://www.bot.go.tz/images/BOTgoldLogo10.jpg)
 
 Bank_of_Tz is a web scrapper which scapes data from bot.go.tz the data its scapes includes
 
